@@ -1,0 +1,6 @@
+Flask # type: ignore
+scikit-learn # type: ignore
+pandas # type: ignore
+numpy # type: ignore
+matplotlib # type: ignore
+
